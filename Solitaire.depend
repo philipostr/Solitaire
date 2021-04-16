@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1589484771 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\main.cpp
+	<iostream>
+	<windows.h>
+	<winuser.h>
+	"Player.h"
+	"Deck.h"
+
+1589484722 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\src\card.cpp
+	"Card.h"
+	<ctime>
+	<iostream>
+	<windows.h>
+
+1589327533 d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\include\card.h
+	<string>
+
+1589481773 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\src\cardpile.cpp
+	"CardPile.h"
+	<iostream>
+
+1589472418 d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\include\cardpile.h
+	<vector>
+	"Card.h"
+
+1589387500 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\src\stock.cpp
+	"Stock.h"
+
+1589387259 d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\include\stock.h
+	"CardPile.h"
+
+1589393279 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\src\talon.cpp
+	"Talon.h"
+
+1589393283 d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\include\talon.h
+	"CardPile.h"
+
+1589470113 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\src\deck.cpp
+	"Deck.h"
+	<ctime>
+
+1589470056 d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\include\deck.h
+	"CardPile.h"
+
+1589558354 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1589558328 d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\include\player.h
+	"Foundation.h"
+	"Stock.h"
+	"Tableau.h"
+	"Talon.h"
+
+1589393771 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\src\tableau.cpp
+	"Tableau.h"
+
+1589386840 d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\include\tableau.h
+	"CardPile.h"
+
+1589408442 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\src\foundation.cpp
+	"Foundation.h"
+
+1589408180 d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\include\foundation.h
+	"CardPile.h"
+
+1589149792 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\src\game.cpp
+	"Game.h"
+
+1589149924 d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\include\game.h
+	"Player.h"
+
+1589502529 source:d:\vindo do c\philip\code blocks stuff\grade 12 comp sci\solitaire\solitaire.cpp
+	<iostream>
+	<windows.h>
+	<winuser.h>
+	"Player.h"
+	"Deck.h"
+
+1590018787 source:c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\solitaire.cpp
+	<iostream>
+	<windows.h>
+	<winuser.h>
+	"Game.h"
+
+1589938694 c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\include\player.h
+	"Foundation.h"
+	"Stock.h"
+	"Tableau.h"
+	"Talon.h"
+
+1589404580 c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\include\foundation.h
+	"CardPile.h"
+
+1589656904 c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\include\cardpile.h
+	<vector>
+	"Card.h"
+
+1589323933 c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\include\card.h
+	<string>
+
+1589383659 c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\include\stock.h
+	"CardPile.h"
+
+1589656957 c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\include\tableau.h
+	"CardPile.h"
+
+1589657670 c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\include\talon.h
+	"CardPile.h"
+
+1589656738 c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\include\deck.h
+	"CardPile.h"
+
+1589481122 source:c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\src\card.cpp
+	"Card.h"
+	<ctime>
+	<iostream>
+	<windows.h>
+
+1589910108 source:c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\src\cardpile.cpp
+	"CardPile.h"
+	<iostream>
+	<ctime>
+
+1589984260 source:c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\src\deck.cpp
+	"Deck.h"
+	<ctime>
+
+1589920147 source:c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\src\foundation.cpp
+	"Foundation.h"
+
+1590023599 source:c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\src\game.cpp
+	"Game.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1590019965 c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\include\game.h
+	"Player.h"
+	"Deck.h"
+
+1589985171 source:c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1589730548 source:c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\src\stock.cpp
+	"Stock.h"
+
+1589911173 source:c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\src\tableau.cpp
+	"Tableau.h"
+
+1589389679 source:c:\users\phili\onedrive\desktop\work hard\code blocks stuff\grade 12 comp sci\solitaire\src\talon.cpp
+	"Talon.h"
+
